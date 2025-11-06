@@ -179,4 +179,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI for GPT API integration
 - PHPMailer for email functionality
 - Unsplash for background images
-
