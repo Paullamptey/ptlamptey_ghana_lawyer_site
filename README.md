@@ -169,9 +169,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Paul Teye Lamptey**
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: paul@example.com
+- GitHub: https://github.com/Paullamptey
+- LinkedIn: https://www.linkedin.com/in/paul-teye-lamptey-65a271275
+- Email: paullamptey05@gmail.com
+- Website: paulteyelampteye.com
 
 ## 🙏 Acknowledgments
 
