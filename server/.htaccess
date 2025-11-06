@@ -1,0 +1,26 @@
+# Allow access to PHP files for form submissions
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "error_handler.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Allow access to handler files
+<Files "*.php">
+    Order allow,deny
+    Allow from all
+</Files>
+# Disable caching for CSS files
+<FilesMatch "\.(css)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+</FilesMatch>
+# Enable CORS for API requests
+Header always set Access-Control-Allow-Origin "*"
+Header always set Access-Control-Allow-Methods "POST, GET, OPTIONS"
+Header always set Access-Control-Allow-Headers "Content-Type"
