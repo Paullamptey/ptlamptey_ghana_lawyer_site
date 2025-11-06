@@ -1,15 +1,11 @@
-# Ghanaian Personal Lawyer Website
+Ghanaian Personal Lawyer Website
 
 A complete, responsive website for a Ghana-based personal lawyer built with modern web technologies. Features include a floating AI chatbot, secure AJAX forms, PHP backend, MySQL database, and automated email notifications.
 
-## 🚀 Live Demo
-[View Live Website](https://your-domain.com) *(Replace with actual deployment URL)*
-
-## 📋 Table of Contents
+Table of Contents
 - [Ghanaian Personal Lawyer Website](#ghanaian-personal-lawyer-website)
-  - [🚀 Live Demo](#-live-demo)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [✨ Features](#-features)
+  - [Table of Contents](#-table-of-contents)
+  - [Features](#-features)
   - [Quick start](#quick-start)
   - [API Endpoints](#api-endpoints)
   - [Security Features](#security-features)
@@ -23,19 +19,19 @@ A complete, responsive website for a Ghana-based personal lawyer built with mode
     - [Default Credentials](#default-credentials)
     - [Admin Features](#admin-features)
     - [Admin Account Management](#admin-account-management)
-  - [🔧 Configuration](#-configuration)
+  - [Configuration](#-configuration)
     - [Database Setup](#database-setup)
     - [Email Configuration](#email-configuration)
     - [AI Chatbot Setup](#ai-chatbot-setup)
-  - [🚀 Deployment](#-deployment)
+  - [Deployment](#-deployment)
     - [Requirements](#requirements)
     - [Production Checklist](#production-checklist)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-  - [👨‍💻 Author](#-author)
-  - [🙏 Acknowledgments](#-acknowledgments)
+  - [Contributing](#-contributing)
+  - [License](#-license)
+  - [Author](#-author)
+  - [Acknowledgments](#-acknowledgments)
 
-## ✨ Features
+## Features
 - **Responsive Design**: Mobile-first approach with Ghanaian cultural elements
 - **AI-Powered Chatbot**: Intelligent legal assistance with Ghana-specific knowledge
 - **Secure Forms**: AJAX-powered contact, appointment, and complaint forms
@@ -120,7 +116,7 @@ Text uses Ghana-appropriate terms: 1992 Constitution, Lands Commission, Land Act
 - Secure password hashing and validation
 - Role-based access control (all admins have full access)
 
-## 🔧 Configuration
+## Configuration
 
 ### Database Setup
 1. Create MySQL database: `ghana_lawyer`
@@ -136,7 +132,7 @@ Text uses Ghana-appropriate terms: 1992 Constitution, Lands Commission, Land Act
 - Add OpenAI API key to `server/config.php`
 - Fallback to mock responses if API key not provided
 
-## 🚀 Deployment
+## Deployment
 
 ### Requirements
 - PHP 7.4+ with PDO MySQL extension
@@ -154,7 +150,7 @@ Text uses Ghana-appropriate terms: 1992 Constitution, Lands Commission, Land Act
 - [ ] Add CSRF protection
 - [ ] Set up monitoring/logging
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -162,11 +158,11 @@ Text uses Ghana-appropriate terms: 1992 Constitution, Lands Commission, Land Act
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+## Author
 
 **Paul Teye Lamptey**
 - GitHub: https://github.com/Paullamptey
@@ -174,7 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Email: paullamptey05@gmail.com
 - Website: paulteyelampteye.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Ghana Bar Association for legal guidance
 - OpenAI for GPT API integration
